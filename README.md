@@ -1,2 +1,2 @@
 # SDU_RoVi
-SDU - Robotics and Computer Vision Project Task
+SDU - Robotics and Computer Vision, Final project
